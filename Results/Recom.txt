@@ -1,0 +1,61 @@
+This File contains the details outcomes of several queries
+Matrix Size:15x938 Number of Factors:30
+############################################################
+UserId:2
+ItemId:15 ItemName:French Twist (Gazon maudit) (1995)
+
+##########Simmialr Items to the given items##########
+107:Kids in the Hall: Brain Candy (1996)
+113:Wallace & Gromit: The Best of Aardman Animation (1996)
+118:Maya Lin: A Strong Clear Vision (1994)
+112:Horseman on the Roof, The (Hussard sur le toit, Le) (1995)
+114:Haunted World of Edward D. Wood Jr., The (1995)
+252:Pillow Book, The (1995)
+245:Chasing Amy (1997)
+197:Nikita (La Femme Nikita) (1990)
+44:Eat Drink Man Woman (1994)
+
+##########Users who like this item also like following items##########
+0:Toy Story (1995)
+1:GoldenEye (1995)
+2:Four Rooms (1995)
+5:Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+6:Twelve Monkeys (1995)
+8:Dead Man Walking (1995)
+11:Usual Suspects, The (1995)
+12:Mighty Aphrodite (1995)
+13:Postino, Il (1994)
+14:Mr. Holland's Opus (1995)
+
+##########Similar Users Like The Following Items##########
+1:GoldenEye (1995)
+2:Four Rooms (1995)
+3:Get Shorty (1995)
+5:Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+6:Twelve Monkeys (1995)
+7:Babe (1995)
+8:Dead Man Walking (1995)
+9:Richard III (1995)
+10:Seven (Se7en) (1995)
+
+##########Similar People like these Items which are similar to the Given Item##########
+2:Four Rooms (1995)
+5:Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+632:Christmas Carol, A (1938)
+9:Richard III (1995)
+525:Ben-Hur (1959)
+921:Dead Man (1995)
+18:Antonia's Line (1995)
+26:Bad Boys (1995)
+541:Pocahontas (1995)
+
+##########The Given user also rated following items higher than Threshold##########
+345:Jackie Brown (1997)
+319:Paradise Lost: The Child Murders at Robin Hood Hills (1996)
+346:Wag the Dog (1997)
+339:Boogie Nights (1997)
+259:Event Horizon (1997)
+341:Man Who Knew Too Little, The (1997)
+347:Desperate Measures (1998)
+343:Apostle, The (1997)
+328:Desperate Measures (1998)

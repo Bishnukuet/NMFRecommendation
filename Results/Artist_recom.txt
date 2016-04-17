@@ -1,0 +1,61 @@
+This File contains the details outcomes of several queries
+Matrix Size:17x704 Number of Factors:30
+############################################################
+UserId:1
+ItemId:61 ItemName:trip hop
+
+##########Simmialr Items to the given items##########
+51:databloem
+52:field recording
+53:october man recordings
+54:greece
+55:melancholic
+56:clicks'n'cuts
+57:halbischt
+58:drone
+59:melodramatic popular song minimal
+
+##########Users who like this item also like following items##########
+7:terror ebm
+50:clicks and cuts
+51:databloem
+52:field recording
+53:october man recordings
+54:greece
+55:melancholic
+56:clicks'n'cuts
+57:halbischt
+58:drone
+
+##########Similar Users Like The Following Items##########
+50:clicks and cuts
+51:databloem
+52:field recording
+53:october man recordings
+54:greece
+55:melancholic
+56:clicks'n'cuts
+57:halbischt
+58:drone
+
+##########Similar People like these Items which are similar to the Given Item##########
+51:databloem
+52:field recording
+53:october man recordings
+54:greece
+55:melancholic
+56:clicks'n'cuts
+57:halbischt
+58:drone
+59:melodramatic popular song minimal
+
+##########The Given user also rated following items higher than Threshold##########
+287:beatsy
+377:deathcore
+485:smile
+332:Other
+288:hot guitar
+50:clicks and cuts
+51:databloem
+52:field recording
+53:october man recordings
